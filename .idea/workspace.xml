@@ -2,26 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Adder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdderRemote.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderRMI/Adder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderRMI/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderRMI/AdderRemote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderRMI/AdderRemote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdderRemote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderRMI/AdderRemote_Stub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderRMI/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderRMI/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderRMI/MyClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderRMI/MyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderRMI/MyServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderRMI/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderRMI/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/Adder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/AdderRemote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/META-INF/JavaRMI.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/MyClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/MyServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/RMIChatClient/ChatClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/RMIChatClient/ChatClientInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/RMIChatClient/ChatServerInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/RMIChatClient/ChatUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/RMIChatClient/ChatUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/RMIChatClient/ChatUI$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/RMIChatClient/ChatUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/RMIChatSever/ChatClientInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/RMIChatSever/ChatServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/RMIChatSever/ChatServerInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaRMI/RMIChatSever/StartServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyClientCont.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyClientCont.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatClient/ChatClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatClient/ChatClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatClient/ChatClientInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatClient/ChatClientInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatClient/ChatServerInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatClient/ChatServerInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatClient/ChatUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatClient/ChatUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatClient/ChatUI$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatClient/ChatUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatClient/ChatUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatSever/ChatClientInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatSever/ChatClientInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatSever/ChatServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatSever/ChatServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatSever/ChatServerInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatSever/ChatServerInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatSever/StartServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMIChatSever/StartServer.java" beforeDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,25 +101,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyServer.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ClientMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="135">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MyClient.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="189">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -118,6 +149,14 @@
         <option value="$PROJECT_DIR$/src/AdderRMI/MyClient.java" />
         <option value="$PROJECT_DIR$/src/AdderRMI/AdderRemote.java" />
         <option value="$PROJECT_DIR$/src/AdderRemote.java" />
+        <option value="$PROJECT_DIR$/src/RMIChatSever/StartServer.java" />
+        <option value="$PROJECT_DIR$/src/MyClient.java" />
+        <option value="$PROJECT_DIR$/src/ClientMain.java" />
+        <option value="$PROJECT_DIR$/src/MyClientCont.java" />
+        <option value="$PROJECT_DIR$/src/ClientUI.fxml" />
+        <option value="$PROJECT_DIR$/src/RMIChatClient/ChatUI.java" />
+        <option value="$PROJECT_DIR$/src/RMIChatSever/ChatUI.java" />
+        <option value="$PROJECT_DIR$/src/RMIChatSever/ChatClient.java" />
       </list>
     </option>
   </component>
@@ -137,24 +176,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JavaRMI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRMI" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaFxRMI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFxRMI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaRMI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRMI" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaFxRMI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFxRMI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyClient (1)">
+  <component name="RunManager" selected="Application.ClientMain">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -215,9 +254,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ChatUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RMIChatClient.ChatUI" />
+      <module name="JavaFxRMI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RMIChatClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientMain" />
+      <module name="JavaFxRMI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="AdderRMI.Main" />
-      <module name="JavaRMI" />
+      <module name="JavaFxRMI" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -233,41 +294,27 @@
     </configuration>
     <configuration name="MyClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyClient" />
-      <module name="JavaRMI" />
+      <module name="JavaFxRMI" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdderRMI.MyClient" />
-      <module name="JavaRMI" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MyServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyServer" />
-      <module name="JavaRMI" />
+      <module name="JavaFxRMI" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdderRMI.MyServer" />
-      <module name="JavaRMI" />
+    <configuration name="StartServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RMIChatSever.StartServer" />
+      <module name="JavaFxRMI" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="RMIChatSever.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,6 +338,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="JavaFxRMI" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="JavaFxRMI" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="JavaFxRMI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -303,6 +418,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="JavaFxRMI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -312,12 +438,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="JavaFxRMI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="JavaFxRMI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyClient (1)" />
+        <item itemvalue="Application.ClientMain" />
         <item itemvalue="Application.MyServer (1)" />
-        <item itemvalue="Application.MyServer" />
-        <item itemvalue="Application.MyClient" />
+        <item itemvalue="Application.ChatUI" />
+        <item itemvalue="Application.StartServer" />
+        <item itemvalue="Application.MyClient (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -340,9 +499,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.27224737" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.18401207" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -352,7 +510,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39873418" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -396,10 +554,93 @@
     <entry file="file://$PROJECT_DIR$/src/Adder.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RMIChatClient/ChatClient.java">
+    <entry file="file://$PROJECT_DIR$/src/RMIChatClient/ChatClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/AdderRemote_Stub.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientMain.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyClient.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientUI.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyClientCont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyClientCont.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMIChatClient/ChatClientInt.java" />
+    <entry file="file://$PROJECT_DIR$/src/RMIChatClient/ChatServerInt.java" />
+    <entry file="file://$PROJECT_DIR$/src/RMIChatClient/ChatUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/RMIChatSever/ChatClient.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMIChatSever/StartServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMIChatSever/ChatServerInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Adder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMIChatSever/ChatClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMIChatSever/ChatClientInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMIChatSever/ChatServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -409,30 +650,34 @@
           <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AdderRemote_Stub.class">
+    <entry file="file://$PROJECT_DIR$/src/RMIChatSever/ChatUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        <state relative-caret-position="319">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="13" />
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyClient.java">
+    <entry file="file://$PROJECT_DIR$/src/ClientMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
