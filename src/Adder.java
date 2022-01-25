@@ -1,4 +1,4 @@
-package AdderRMI;
+
 
 import java.rmi.*;
 public interface Adder extends Remote{

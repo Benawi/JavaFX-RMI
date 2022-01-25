@@ -1,5 +1,3 @@
-package AdderRMI;
-
 import java.rmi.*;
 
 public class MyClient {
