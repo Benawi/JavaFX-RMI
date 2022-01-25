@@ -1,8 +1,16 @@
+import javafx.fxml.FXML;
+import javafx.scene.control.ComboBox;
+import javafx.scene.control.TextField;
+
 import java.rmi.*;
 
-public class MyClient {
+public class MyClientCont {
+    @FXML
+    private TextField hostname;
+    @FXML
+    private ComboBox port;
 
-    public static void main(String args[]) {
+    public  void handle() {
         try {
 
             Adder stub = (Adder) Naming.lookup("rmi://localhost:200/HPPROBOOK");
